@@ -1,2 +1,6 @@
 # rayevellns
 systems development
+
+ALUNO1: KAMILLY B. MOTA
+ALUNO2: RAUL F. BORGES
+ALUNO3: RAYSSA E.S. NASCIMENTO
